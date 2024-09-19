@@ -6,6 +6,7 @@ This is the main download page for AfnMusic
 
 ## 📋Features of AfnMusic
 ### [📦 `com.google.android.apps.youtube.music`](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
+<details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
