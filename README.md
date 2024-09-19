@@ -1,4 +1,5 @@
 # 🧩AfnMusic
+- AfnMusic prebuilt apk using [patches](https://github.com/AykhanUV/revanced-patches)
 
 ## Note
 This is the main download page for AfnMusic
